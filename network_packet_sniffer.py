@@ -1,6 +1,6 @@
-#
+##
 # Run with root privileges(sudo) on kali linux
-#
+##
 
 import socket
 import struct
