@@ -1,4 +1,4 @@
-##
+## Not suitable for windows. Won't run on windows
 # Run with root privileges(sudo) on kali linux
 ##
 
